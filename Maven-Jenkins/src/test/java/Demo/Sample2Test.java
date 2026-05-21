@@ -14,5 +14,4 @@ public class Sample2Test {
 		System.out.println("sample Test12345");
 		
 	}
-
 }
