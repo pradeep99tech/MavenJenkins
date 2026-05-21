@@ -11,7 +11,7 @@ public class Sample2Test {
 	}
 	@Test
 	public void case12345(){
-		System.out.println("sample Test12345");
+		System.out.println("Dinga Dingi");
 		
 	}
 }
